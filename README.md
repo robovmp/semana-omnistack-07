@@ -9,7 +9,6 @@ Essa aplicação é um clone do aplicativo Instagram, feito em NodeJS (Back-end)
 ## Tecnologia :
 
 Essas são as tecnologias usadas neste projeto
-Here are the technologies used in this project.
 
 * NodeJs versão  16.16.0
 * VueCLI versão 5.0.8
@@ -52,12 +51,12 @@ As principais funcionalidades do aplicativo são:
 ## Links
   - Repository: https://github.com/robovmp/semana-omnistack-07
 
-  ## Versioning
+  ## Versão
 
   1.0.0.0
 
 
-  ## Authors
+  ## Autor
 
   * **Vinícius Martins Pedro** 
 
