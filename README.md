@@ -39,7 +39,7 @@ Here are the technologies used in this project.
 ### 4 - Vídeo Apresentação!
 #### Dentro desta pasta contém um vídeo de apresentação, mostrando o projeto em funcionamento :
 
-![video](https://github.com/robovmp/semana-omnistack-07/tree/main/assets/videoAssets.png)
+![video](https://github.com/robovmp/semana-omnistack-07/blob/main/assets/videoAssets.png)
 
 
 ## Features
