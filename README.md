@@ -1,54 +1,33 @@
 
-![Logo of the project](https://github.com/Lucasdfg07/Spotify_clone/blob/master/app/javascript/assets/images/logo.png)
+![Logo do projeto](https://github.com/robovmp/semana-omnistack-07/blob/main/front-end/src/assets/logo.svg)
 
 
-## SpotCode
-This application is an app clone of spotify made with Ruby (Back end) and ReactJS (Front end) to play musics, see artist's album, their music and made your day more musicable! Did on weekcode of OneBitCode.
+## InstaRocket
+Essa aplicação é um clone do aplicativo Instagram, feito em NodeJS (Back-end) e VueJs (Front-end) para a publicação de posts e likes em tempo real! Idealizado pela equipe da Rocketseat.
 
 
-## Technology 
+## Tecnologia :
 
+Essas são as tecnologias usadas neste projeto
 Here are the technologies used in this project.
 
-* Ruby version  2.5.1
-* Rails version 6.0.2
-* SQLite3
+* NodeJs versão  16.16.0
+* VueCLI versão 5.0.8
+* MongoDB
 
-## Services Used
+## Serviços usados :
 
 * Github
 
-## Ruby Gems
+## NodeJS bibliotecas
 
-* Devise
-* Bootstrap
-* JQuery-rails
-* Serviceworker Rails
+* Socket.io
 
+## Como usar :
 
-## Getting started
+### 1 - Ao acessar o projeto, você verá esta página inicial.
 
-* Dependency
-  - Ruby  
-  - Rails
-
-* To create and build your database accord of the project.
-  - rake db:create db:migrate
-  
-* To create the previous files to use on the project, on the database.
-  - rake db:seed
-  
-* To install the gems.
-  - bundle install
-  
-* To run the project.
-  - rails s
-
-## How to use
-
-### 1 - When you access the project, you will see this initial page.
-
-![Homepage image](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/17.png)
+![Pagina Inicial](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/17.png)
 
 ### 2 - You can Login in the system if you have an account registered.
 
