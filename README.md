@@ -1,5 +1,5 @@
 
-![Logo do projeto]([https://github.com/robovmp/semana-omnistack-07/blob/main/front-end/src/assets/logo.svg](https://github.com/robovmp/semana-omnistack-07/blob/main/assets/camera.svg))
+![Logo do projeto](https://github.com/robovmp/semana-omnistack-07/blob/main/assets/camera.svg)
 
 
 ## InstaRocket
@@ -27,12 +27,12 @@ Here are the technologies used in this project.
 
 ### 1 - Ao acessar o projeto, você verá esta página inicial.
 
-![Pagina Inicial]([https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/17.png](https://github.com/robovmp/semana-omnistack-07/blob/main/assets/homePage.png))
+![Pagina Inicial](https://github.com/robovmp/semana-omnistack-07/blob/main/assets/homePage.png)
 
 ### 2 - Para adicionar posts clique no ícone de câmera, no canto superior direito e será direcionado a está página.
 
-![Post]([https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/16.png](https://github.com/robovmp/semana-omnistack-07/blob/main/assets/postPage.png))
-
+![Post](https://github.com/robovmp/semana-omnistack-07/blob/main/assets/postPage.png)
+<!-- 
 ### 3 - Or simply create your account.
 
 ![Sign up](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/15.png)
@@ -110,4 +110,4 @@ The main features of the application are:
   * **Lucas Siqueira Fernandes** 
 
   Please follow github and join us!
-  Thanks to visiting me and good coding!
+  Thanks to visiting me and good coding! -->
