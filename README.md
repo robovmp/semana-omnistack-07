@@ -12,6 +12,7 @@ Essas são as tecnologias usadas neste projeto
 
 * NodeJs versão  16.16.0
 * VueCLI versão 5.0.8
+* Vuex versão 3.6.2
 * MongoDB
 
 ## Serviços usados :
