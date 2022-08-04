@@ -11,6 +11,7 @@ Essa aplicação é um clone do aplicativo Instagram, feito em NodeJS (Back-end)
 Essas são as tecnologias usadas neste projeto
 
 * NodeJs versão  16.16.0
+* Vue 2
 * VueCLI versão 5.0.8
 * Vuex versão 3.6.2
 * MongoDB
